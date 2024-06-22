@@ -4,7 +4,7 @@
 En esta clase, abordaremos los elementos fundamentales de lógica y conjuntos. Los estudiantes aprenderán los conceptos básicos que son esenciales para la matemática y la programación.
 
 ## Material de Clase
-- [Cuaderno de Colab de la Clase 1](Clase1.ipynb)
+- [Cuaderno de Colab de la Clase 1](https://colab.research.google.com/drive/1rT5dKe91D9AZrai4kijw_8ZaSJwuZBrP?usp=sharing)
 
 ## Objetivos de Aprendizaje
 - Comprender los conceptos básicos de lógica.
