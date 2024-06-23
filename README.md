@@ -27,14 +27,14 @@ El curso se divide en dos fases:
 - [Clase 9: Continuidad local y global](Clase9/README.md)
 - [Clase 10: Concepto de la derivada](Clase10/README.md)
 - [Clase 11: Reglas de derivación y aplicaciones](Clase11/README.md)
-- [Clase 12: Resolución de problemas de cálculo en Python](Clase12/README.md)
-- [Clase 13: Fundamentos de integración](Clase13/README.md)
+- [Clase 12: Resolución de problemas de cálculo en Python, series de Taylor](Clase12/README.md)
+- [Clase 13: Fundamentos de integración, teorema fundamental del cálculo](Clase13/README.md)
 - [Clase 14: Examen final de la primera fase](Clase14/README.md)
 
 ### Segunda Fase
-- Fecha: del lunes 12 de agosto al miércoles 4 de septiembre de 2024.
+- Fecha: del lunes 19 de agosto al miércoles 11 de septiembre de 2024.
 - Horario: lunes y miércoles de 07:00 a 09:00.
-- Examen final de la segunda fase: viernes 6 de septiembre de 2024 de 07:00 a 08:00.
+- Examen final de la segunda fase: viernes, 13 de septiembre de 2024 de 07:00 a 09:00.
 
 #### Clases de la Segunda Fase
 - [Clase 15: Integración por partes y sustitución](Clase15/README.md)
@@ -42,15 +42,15 @@ El curso se divide en dos fases:
 - [Clase 17: Introducción a matrices y vectores en Python](Clase17/README.md)
 - [Clase 18: Funciones lineales y matriciales](Clase18/README.md)
 - [Clase 19: Resolución de sistemas de ecuaciones lineales](Clase19/README.md)
-- [Clase 20: Inversión de matrices](Clase20/README.md)
+- [Clase 20: Inversión de matrices, equivalencias no singulares](Clase20/README.md)
 - [Clase 21: Valores y vectores propios](Clase21/README.md)
 - [Clase 22: Optimización sin restricciones](Clase22/README.md)
 - [Clase 23: Examen final de la segunda fase](Clase23/README.md)
 
 ## Evaluación
-La evaluación del curso constará de dos exámenes:
-- Un examen final presencial de 2 horas para la primera fase del curso.
-- Un examen final de 1 hora para la segunda fase del curso.
+La evaluación del curso constará de dos exámenes de dos horas cada uno:
+- Un examen en la primera fase del curso.
+- Un examen final para la segunda fase del curso.
 
 ## Referencias
 - Chiang, A. (1984). Fundamental Methods of Mathematical Economics. McGraw-Hill. [Link](https://www.flacso.edu.ec/biblio/shared/biblio_view.php?bibid=14768&tab=opac)
