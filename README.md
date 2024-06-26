@@ -53,14 +53,14 @@ La evaluación del curso constará de dos exámenes de dos horas cada uno:
 - Un examen final para la segunda fase del curso.
 
 ## Referencias
-- Chiang, A. (1984). Fundamental Methods of Mathematical Economics. McGraw-Hill. [Link](https://www.flacso.edu.ec/biblio/shared/biblio_view.php?bibid=14768&tab=opac)
-- Mas-Colell, A., Whinston, M. y Green, J. (1995). Microeconomic Theory. [Link](https://www.flacso.edu.ec/biblio/shared/biblio_view.php?bibid=9840&tab=opac)
+- Chiang, A. (2016). Fundamental Methods of Mathematical Economics. McGraw-Hill. [Link](https://drive.google.com/file/d/1AZ97AzOqbgQ3bMlBfGiLi9PaBQ1yxZ7m/view?usp=sharing)
+- Mas-Colell, A., Whinston, M. y Green, J. (1995). Microeconomic Theory. [Link](https://drive.google.com/file/d/1Q3-CMfWCEPWxGixA79wQK82Q4E-bvm8z/view?usp=sharing)
 - Python Software Foundation. (2023). Python Documentation. [Link](https://docs.python.org/)
-- Rudin, W. (1976). Principles Of Mathematical Analysis. [Link](https://www.google.com.ec/books/edition/Principles_of_Mathematical_Analysis/iifvAAAAMAAJ?hl=en&gbpv=0&bsq=rudin%20analysis)
-- Simon, C. y Blume, L. (1994). Mathematics for Economists. W.W. Norton & Company. [Link](https://www.flacso.edu.ec/biblio/shared/biblio_view.php?bibid=102939&tab=opac)
-- Sydsaeter, K., Hammond, P., Seierstad, A., Strom, A. (2004). Matemáticas para el Análisis Económico. [Link](https://www.flacso.edu.ec/biblio/shared/biblio_view.php?bibid=129036&tab=opac)
-- Strichartz, R. (2000). The Way of Analysis. Jones and Bartlett books in mathematics. [Link](https://www.google.com.ec/books/edition/The_Way_of_Analysis/Yix09oVvI1IC?hl=en&gbpv=1&dq=o+Strichartz+Robert+(2000)+The+Way+of+analysis+Jones+and+Bartlett+books+in+mathematics&printsec=frontcover)
-- Apostol, T. M. (2007). Calculus Vol. 1: One-Variable Calculus with an Introduction to Linear Algebra. Wiley.
+- Rudin, W. (1976). Principles Of Mathematical Analysis. [Link](https://drive.google.com/file/d/1tcwXyUQxm6KS17sx2F60XPCYSljOG81g/view?usp=sharing)
+- Simon, C. y Blume, L. (1994). Mathematics for Economists. W.W. Norton & Company. [Link](https://drive.google.com/file/d/1TNX_4whUb-i8k80ibr96Pux77W6gdL7m/view?usp=sharing)
+- Sydsaeter, K., Hammond, P., Seierstad, A., Strom, A. (1996). Matemáticas para el Análisis Económico. [Link](https://drive.google.com/file/d/1C0pEuIzUN_XKRXyQPxQnBBTui6iamLSd/view?usp=sharing)
+- Strichartz, R. (2000). The Way of Analysis. Jones and Bartlett books in mathematics. [Link](https://drive.google.com/file/d/16esjdGhc9qmFrcZyajT-VDmVH03GpDVC/view?usp=sharing)
+- Apostol, T. M. (1967). Calculus Vol. 1: One-Variable Calculus with an Introduction to Linear Algebra. Wiley. [Link](https://drive.google.com/file/d/1yeM4iSN3P5MPbJ9CdCyXsQVdweYwq-dO/view?usp=sharing)
 
 ## Información sobre los Profesores
 - **Francisco Arturo Pérez Mogollón**: Economista Pontificia Universidad Católica del Ecuador, Magíster en Estadística Aplicada Escuela Politécnica Nacional, Estudiante del Doctorado en Economía del Desarrollo FLACSO. Correo electrónico: fperezfl@flacso.edu.ec

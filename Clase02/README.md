@@ -4,18 +4,13 @@
 En esta clase, exploraremos los conceptos básicos de los algoritmos de programación y los sistemas numéricos. Los estudiantes aprenderán a diseñar algoritmos y entenderán los diferentes sistemas numéricos utilizados en la programación y las matemáticas.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Presentación y video](https://drive.google.com/file/d/1y3y1xnctcV9tdFtEgJ1SSmA2bP_Lhihq/view?usp=drive_link)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK431c-w=/?share_link_id=858170749637)
+- [Video de la Clase](https://youtu.be/_J5YGdlDBjg)
 
 ## Objetivos de Aprendizaje
 - Comprender los conceptos básicos de los algoritmos de programación.
 - Familiarizarse con los sistemas numéricos y su aplicación en la programación y las matemáticas.
-
-## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
 
 ## Recursos Adicionales
 - [Enlace a la documentación de Python](https://docs.python.org/)
