@@ -4,10 +4,9 @@
 En esta clase, exploraremos el entorno de Python, así como las variables y operadores. También abordaremos los principios de demostración matemática que son fundamentales para el estudio de la matemática y la programación.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
+- [Jupyter Notebook de la Clase](https://colab.research.google.com/drive/1gKLg7fce-wquZhZIRvRg4vYMuRhPTkHj?usp=sharing)
 - [Apuntes de Clase](https://miro.com/app/board/uXjVK4TstJw=/?share_link_id=226237045822)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Video de la Clase](https://youtu.be/16GR6LGy8FA)
 
 ## Objetivos de Aprendizaje
 - Familiarizarse con el entorno de Python y entender el uso de variables y operadores.
@@ -19,8 +18,5 @@ En esta clase, exploraremos el entorno de Python, así como las variables y oper
 
 ## Recursos Adicionales
 - [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Python para Principiantes - Real Python](https://realpython.com/python-first-steps/)
-- [Curso de Python - Codecademy](https://www.codecademy.com/learn/learn-python-3)
-- [Libro de referencia: How to Think Like a Computer Scientist - Allen Downey](https://greenteapress.com/wp/think-python-2e/)
-- [Libro de referencia: The Way of Analysis - Robert Strichartz](https://www.google.com.ec/books/edition/The_Way_of_Analysis/Yix09oVvI1IC?hl=en&gbpv=1&dq=o+Strichartz+Robert+(2000)+The+Way+of+analysis+Jones+and+Bartlett+books+in+mathematics&printsec=frontcover)
+
 

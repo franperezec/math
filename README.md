@@ -63,6 +63,6 @@ La evaluación del curso constará de dos exámenes de dos horas cada uno:
 - Apostol, T. M. (1967). Calculus Vol. 1: One-Variable Calculus with an Introduction to Linear Algebra. Wiley. [Link](https://drive.google.com/file/d/1yeM4iSN3P5MPbJ9CdCyXsQVdweYwq-dO/view?usp=sharing)
 
 ## Información sobre los Profesores
-- **Francisco Arturo Pérez Mogollón**: Economista Pontificia Universidad Católica del Ecuador, Magíster en Estadística Aplicada Escuela Politécnica Nacional, Estudiante del Doctorado en Economía del Desarrollo FLACSO. Correo electrónico: fperezfl@flacso.edu.ec
-- **David Villamar Cabezas**: Economista U. Central del Ecuador, Matemático Université Pierre et Marie Curie, Maestría Economía del Desarrollo FLACSO, Master’s degree International Political Economy Tsukuba University, Master de Mathématiques (M1) Université Pierre et Marie Curie. Estudiante del Doctorado en Economía del Desarrollo FLACSO. Correo electrónico: davillamarfl@flacso.edu.ec
+- **Francisco Arturo Pérez Mogollón**: Economista Pontificia Universidad Católica del Ecuador, Magíster en Estadística Aplicada Escuela Politécnica Nacional, Estudiante del Doctorado en Economía del Desarrollo FLACSO. Correo electrónico: fperezfl@flacso.edu.ec, francisco.perezxxi@gmail.com
+- **David Villamar Cabezas**: Economista Universidad Central del Ecuador, Matemático Université Pierre et Marie Curie, Maestría Economía del Desarrollo FLACSO, Master’s degree International Political Economy Tsukuba University, Master de Mathématiques (M1) Université Pierre et Marie Curie. Estudiante del Doctorado en Economía del Desarrollo FLACSO. Correo electrónico: davillamarfl@flacso.edu.ec, dvillamar@gmail.com
 
