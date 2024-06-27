@@ -15,7 +15,6 @@ En esta clase, exploraremos los conceptos básicos de los algoritmos de programa
 ## Recursos Adicionales
 - [Enlace a la documentación de Python](https://docs.python.org/)
 - [Libro de referencia: Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)
-- [Libro de referencia: Numerical Methods for Engineers - Steven C. Chapra, Raymond P. Canale](https://www.mheducation.com/highered/product/numerical-methods-engineers-chapra-canale/M9780073397924.html)
-- [Tutorial de Algoritmos en Python - Real Python](https://realpython.com/python-algorithms/)
-- [Curso de Sistemas Numéricos - Khan Academy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:arith-review)
+
+
 

@@ -5,7 +5,7 @@ En esta clase, exploraremos el entorno de Python, así como las variables y oper
 
 ## Material de Clase
 - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK4TstJw=/?share_link_id=226237045822)
 - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
 - [Video de la Clase](ENLACE_AL_VIDEO)
 
