@@ -5,7 +5,7 @@ En esta clase, exploraremos el uso de funciones en Python y sus aplicaciones. Ta
 
 ## Material de Clase
 - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK3CJUh0=/?share_link_id=654874216577)
 - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
 - [Video de la Clase](ENLACE_AL_VIDEO)
 
