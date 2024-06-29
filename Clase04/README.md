@@ -1,4 +1,4 @@
-# Clase 4: Principios de demostración matemática. Funciones y conceptos relacionados, función compuesta. Aplicaciones: funciones de utilidad y de producción.
+# Clase 4: Principios de demostración matemática. Funciones y conceptos relacionado.
 
 ## Descripción
 En esta clase, abordaremos los principios de demostración matemática, así como funciones y conceptos relacionados, incluyendo la función compuesta. Además, exploraremos aplicaciones prácticas como funciones de utilidad y de producción en economía.
