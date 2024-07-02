@@ -1,27 +1,27 @@
-# Clase 7: Funciones en Python, aplicaciones. Noción de límite: límite de secuencias y series.
+# Clase 7: Introducción a Python: Variables, Operaciones y Tu Primer Programa
 
 ## Descripción
-En esta clase, exploraremos el uso de funciones en Python y sus aplicaciones. También abordaremos la noción de límite, enfocándonos en el límite de secuencias y series, conceptos fundamentales en el análisis matemático.
+En esta séptima clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales, nos sumergiremos en el fascinante mundo de Python, un lenguaje de programación versátil. Exploraremos los conceptos básicos de Python, incluyendo variables, operaciones fundamentales, y cómo escribir y ejecutar tu primer programa.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Jupyter Notebook de la Clase](https://colab.research.google.com/drive/1M2DT2sLAHLJo0uGbYYuyjY99yIK2HGYq?usp=sharing)
+- [Video de la Clase](https://youtu.be/0XAk308fAjI)
+- [Descarga PSeInt](https://pseint.sourceforge.net/?page=descargas.php)
 
 ## Objetivos de Aprendizaje
-- Comprender el uso y la implementación de funciones en Python.
-- Aplicar funciones de Python a problemas prácticos.
-- Entender la noción de límite, especialmente en el contexto de secuencias y series.
+- Comprender los conceptos básicos de Python.
+- Aprender a declarar y usar variables en Python.
+- Realizar operaciones fundamentales en Python.
+- Escribir y ejecutar tu primer programa en Python.
 
 ## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
+- Realizar ejercicios prácticos en el entorno de programación Python.
+- Escribir y ejecutar programas simples durante la clase.
+- Descargar el cuaderno Jupyter para práctica adicional.
 
-## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Funciones en Python - Real Python](https://realpython.com/defining-your-own-python-function/)
-- [Curso de Funciones en Python - W3Schools](https://www.w3schools.com/python/python_functions.asp)
-- [Libro de referencia: Calculus, Volume I - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+I%3A+One%2DVariable+Calculus%2C+with+an+Introduction+to+Linear+Algebra%2C+2nd+Edition-p-9780471000051)
-- [Libro de referencia: Real Analysis - H.L. Royden](https://www.pearson.com/store/p/real-analysis/P100000117253)
-- [Curso sobre Límite de Secuencias y Series - Khan Academy](https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity)
+## Temas Clave
+- Introducción a Python y su entorno de desarrollo.
+- Variables en Python: declaración, asignación y tipos de datos.
+- Operaciones básicas: aritméticas, de comparación y lógicas.
+- Estructura básica de un programa Python.
+- Ejecución de tu primer programa.
