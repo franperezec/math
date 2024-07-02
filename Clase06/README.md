@@ -1,26 +1,22 @@
-# Clase 6: Nociones topológicas fundamentales
+# Clase 6: Cardinalidad y Tipos de Funciones
 
 ## Descripción
-En esta clase, exploraremos las nociones topológicas fundamentales que son esenciales en el estudio de la matemática. Estas nociones proporcionan una base sólida para comprender conceptos avanzados en matemáticas y sus aplicaciones.
+En esta sexta clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales, profundizaremos en conceptos fundamentales de teoría de conjuntos y funciones. Exploraremos la cardinalidad de conjuntos, los diferentes tipos de funciones (inyectivas, sobreyectivas y biyectivas) y los principios básicos de demostración matemática.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK2j9opE=/?share_link_id=154971887279)
+- [Preguntas de Práctica y Fichas de Estudio](https://quizizz.com/join?gc=91633560)
+- [Video de la Clase](https://youtu.be/MLW9P0Nnwn0)
 
 ## Objetivos de Aprendizaje
-- Comprender las nociones topológicas fundamentales.
-- Aplicar estos conceptos a problemas prácticos en matemáticas y ciencias relacionadas.
+- Comprender el concepto de cardinalidad de conjuntos y su importancia.
+- Diferenciar entre funciones inyectivas, sobreyectivas y biyectivas.
+- Aplicar los principios básicos de demostración matemática.
+- Relacionar estos conceptos con aplicaciones en ciencias sociales.
 
-## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
-
-## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Libro de referencia: Topology - James R. Munkres](https://www.pearson.com/store/p/topology/P100000033647)
-- [Libro de referencia: Introduction to Topology and Modern Analysis - George F. Simmons](https://www.amazon.com/Introduction-Topology-Modern-Analysis-Mathematics/dp/0070572275)
-- [Curso de Topología - Khan Academy](https://www.khanacademy.org/math/topology)
-- [Artículo sobre Nociones Topológicas - SpringerLink](https://link.springer.com/article/10.1007/s10231-017-0685-1)
-
+## Temas Clave
+- Cardinalidad de conjuntos
+- Funciones inyectivas (uno a uno)
+- Funciones sobreyectivas (sobre)
+- Funciones biyectivas (correspondencia uno a uno)
+- Principios básicos de demostración matemática
