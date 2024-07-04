@@ -5,7 +5,7 @@ En esta clase, exploraremos la continuidad local y global, así como la noción 
 
 ## Material de Clase
 - [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK1sWuDA=/?share_link_id=327582612949)
 - [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
 - [Video de la Clase](ENLACE_AL_VIDEO)
 

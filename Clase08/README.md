@@ -1,28 +1,24 @@
-# Clase 8: Estructuras de control en Python. Noción de límite: límite de una función.
+# Clase 8: Demostraciones Matemáticas y Nociones de Distancia
 
 ## Descripción
-En esta clase, exploraremos las estructuras de control en Python y cómo utilizarlas eficazmente. También abordaremos la noción de límite en el contexto de una función, un concepto fundamental en el análisis matemático.
+En esta octava clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales, nos sumergiremos en el arte de las demostraciones matemáticas y exploraremos las nociones fundamentales de distancia. Estos conceptos son cruciales para desarrollar un pensamiento matemático riguroso y comprender las bases del análisis matemático.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK2LAIg0=/?share_link_id=410190506766)
+- [Video de la Clase](https://youtu.be/daANB61CkFo)
 
 ## Objetivos de Aprendizaje
-- Comprender y utilizar estructuras de control en Python.
-- Aplicar estructuras de control a problemas prácticos en programación.
-- Entender la noción de límite en el contexto de una función.
+- Comprender y aplicar técnicas básicas de demostración matemática.
+- Familiarizarse con la demostración por contradicción y contraejemplo.
+- Entender el concepto de distancia en matemáticas.
+- Explorar métricas y espacios métricos.
+- Aplicar nociones de distancia a problemas en ciencias sociales.
 
 ## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
+- Realizar ejercicios de demostración durante la clase.
+- Resolver problemas relacionados con métricas y distancias.
+- Discutir aplicaciones de la distancia en contextos de ciencias sociales.
 - Descargar el cuaderno para práctica adicional.
 
-## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Estructuras de Control en Python - Real Python](https://realpython.com/python-conditional-statements/)
-- [Curso de Estructuras de Control en Python - W3Schools](https://www.w3schools.com/python/python_conditions.asp)
-- [Libro de referencia: Calculus, Volume I - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+I%3A+One%2DVariable+Calculus%2C+with+an+Introduction+to+Linear+Algebra%2C+2nd+Edition-p-9780471000051)
-- [Libro de referencia: Real Analysis - H.L. Royden](https://www.pearson.com/store/p/real-analysis/P100000117253)
-- [Curso sobre Límite de Funciones - Khan Academy](https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity/cs1-one-sided-limits/v/introduction-to-limits)
+
 
