@@ -1,26 +1,26 @@
-# Clase 9: Continuidad local, noción épsilon-delta, continuidad global
+# Clase 9: Espacios Métricos y Conjuntos Abiertos: Fundamentos del Análisis
 
 ## Descripción
-En esta clase, exploraremos la continuidad local y global, así como la noción épsilon-delta, que es fundamental en el análisis matemático para entender la continuidad de funciones.
+Bienvenidos a la novena clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales. En esta sesión, nos adentraremos en los conceptos fundamentales de espacios métricos y conjuntos abiertos, pilares esenciales del análisis matemático. 🌐🔒
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
 - [Apuntes de Clase](https://miro.com/app/board/uXjVK1sWuDA=/?share_link_id=327582612949)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Video de la Clase](https://youtu.be/Y5t0cxNCBaM)
 
 ## Objetivos de Aprendizaje
-- Comprender la continuidad local de una función.
-- Entender y aplicar la noción épsilon-delta para definir la continuidad.
-- Comprender la continuidad global de una función.
+- Comprender la definición y propiedades de espacios métricos.
+- Explorar tipos comunes de métricas.
+- Entender el concepto de conjuntos abiertos y su importancia.
+- Analizar la relación entre espacios métricos y conjuntos abiertos.
+- Aplicar estos conceptos en el contexto de las ciencias sociales.
 
 ## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
+- Realizar ejercicios prácticos sobre espacios métricos durante la clase.
+- Resolver problemas relacionados con conjuntos abiertos.
 
-## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Libro de referencia: Introduction to Real Analysis - Robert G. Bartle, Donald R. Sherbert](https://www.wiley.com/en-us/Introduction+to+Real+Analysis%2C+4th+Edition-p-9780471433316)
-- [Libro de referencia: Principles of Mathematical Analysis - Walter Rudin](https://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/M9780070542358.html)
-- [Curso sobre Continuidad - Khan Academy](https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity/cs1-continuity/v/continuity-at-a-point)
-- [Artículo sobre la Noción Épsilon-Delta - Wikipedia](https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_limit)
+## Temas Clave
+- Espacios métricos
+- Propiedades de métricas
+- Conjuntos abiertos
+- Topología básica
+- Distancias matemáticas

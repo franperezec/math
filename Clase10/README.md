@@ -1,27 +1,30 @@
-# Clase 10: Estructuras de control en Python. Concepto de la derivada: definición analítica e intuición geométrica.
+# Clase 10: Conjuntos Cerrados, Series y Límites de Secuencias: Profundizando en el Análisis
 
 ## Descripción
-En esta clase, exploraremos las estructuras de control en Python y cómo utilizarlas eficazmente. También abordaremos el concepto de la derivada, incluyendo su definición analítica e intuición geométrica.
+Bienvenidos a la décima clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales. En esta sesión, exploraremos conceptos avanzados del análisis matemático que son fundamentales para entender fenómenos complejos en las ciencias sociales. 🧮🔍
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVK1NeZls=/?share_link_id=743704823814)
+- [Video de la Clase](https://youtu.be/rkVfAb2M070)
 
 ## Objetivos de Aprendizaje
-- Comprender y utilizar estructuras de control en Python.
-- Aplicar estructuras de control a problemas prácticos en programación.
-- Entender el concepto de la derivada desde una perspectiva analítica y geométrica.
+- Comprender las propiedades y aplicaciones de conjuntos cerrados.
+- Explorar series convergentes y divergentes: definiciones y ejemplos.
+- Entender los límites de secuencias: conceptos y técnicas de cálculo.
+- Analizar las conexiones entre estos conceptos y su relevancia en ciencias sociales.
 
 ## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
+- Realizar ejercicios prácticos sobre conjuntos cerrados.
+- Resolver problemas relacionados con series convergentes y divergentes.
+- Practicar el cálculo de límites de secuencias.
+- Discutir aplicaciones de estos conceptos en ciencias sociales.
+
+## Temas Clave
+- Conjuntos cerrados
+- Series convergentes y divergentes
+- Límites de secuencias
+- Aplicaciones en análisis matemático y ciencias sociales
 
 ## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Estructuras de Control en Python - Real Python](https://realpython.com/python-conditional-statements/)
-- [Curso de Estructuras de Control en Python - W3Schools](https://www.w3schools.com/python/python_conditions.asp)
-- [Libro de referencia: Calculus, Volume I - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+I%3A+One%2DVariable+Calculus%2C+with+an+Introduction+to+Linear+Algebra%2C+2nd+Edition-p-9780471000051)
-- [Libro de referencia: Calculus: Early Transcendentals - James Stewart](https://www.cengage.com/c/calculus-early-transcendentals-8e-stewart/)
-- [Curso sobre Derivadas - Khan Academy](https://www.khanacademy.org/math/calculus-1/cs1-derivatives)
+- [Canal de YouTube](https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ)
+- Suscríbete y activa las notificaciones para no perderte futuras clases.
