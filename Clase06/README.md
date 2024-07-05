@@ -5,7 +5,7 @@ En esta sexta clase de nuestro curso de Matemáticas y Programación para Cienci
 
 ## Material de Clase
 - [Apuntes de Clase](https://miro.com/app/board/uXjVK2j9opE=/?share_link_id=154971887279)
-- [Preguntas de Práctica y Fichas de Estudio](https://quizizz.com/join?gc=91633560)
+- [Preguntas de Práctica y Fichas de Estudio](https://quizizz.com/join?gc=80572384)
 - [Video de la Clase](https://youtu.be/MLW9P0Nnwn0)
 
 ## Objetivos de Aprendizaje

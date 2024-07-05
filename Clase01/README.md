@@ -73,7 +73,7 @@ Analogía: "Todos tienen una madre, ninguna como la mía"
 ## Material de Clase
 - <a href="https://colab.research.google.com/drive/1rT5dKe91D9AZrai4kijw_8ZaSJwuZBrP?usp=sharing" target="_blank">Jupyter Notebook de la Clase</a>
 - <a href="https://miro.com/app/board/uXjVK5MP8Ms=/?share_link_id=136644180414" target="_blank">Apuntes de Clase</a>
-- <a href="https://quizizz.com/join?gc=82817068" target="_blank">Preguntas de Práctica y Fichas de Estudio</a>
+- <a href="https://quizizz.com/join?gc=81730888" target="_blank">Preguntas de Práctica y Fichas de Estudio</a>
 - <a href="https://youtu.be/xhAM6WZEtoo" target="_blank">Video de la Clase</a>
 
 ## Objetivos de Aprendizaje
