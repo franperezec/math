@@ -1,36 +1,37 @@
-# Clase 14: Examen Final de la Primera Fase
+# Sesión 14. Examen Final de la Primera Fase: Indicaciones y Recursos
 
 ## Descripción
-Esta clase está dedicada al examen final de la primera fase del curso. El examen evaluará los conocimientos y habilidades adquiridos a lo largo de las clases anteriores, abarcando todos los temas tratados.
+Este documento proporciona información esencial sobre el examen final de la primera fase de nuestro curso de Matemáticas y Programación para Ciencias Sociales. Aquí encontrarás las indicaciones para el examen, los temas que se evaluarán y recursos útiles para tu preparación.
 
-## Estructura del Examen
-- Duración: 2 horas
-- Formato: Preguntas de opción múltiple, preguntas abiertas y problemas prácticos.
-- Temas a cubrir:
-  - Elementos de lógica y conjuntos
-  - Algoritmos de programación y sistemas numéricos
-  - Entorno de Python, variables y operadores
-  - Principios de demostración matemática
-  - Funciones en Python y sus aplicaciones
-  - Noción de distancia, espacios métricos
-  - Nociones topológicas fundamentales
-  - Noción de límite: límite de secuencias y series
-  - Estructuras de control en Python
-  - Continuidad local y global
-  - Concepto de la derivada y reglas de derivación
-  - Derivada de la función compuesta
-  - Aplicaciones de cálculo en Python
-  - Derivadas de orden superior y aproximaciones de Taylor
-  - Fundamentos de integración
+## Temas a Evaluar
+1. Elementos de lógica y conjuntos
+2. Algoritmos de programación y sistemas numéricos
+3. Entorno de Python, variables y operadores
+4. Principios de demostración matemática
+5. Funciones en Python y sus aplicaciones
+6. Noción de distancia, espacios métricos
+7. Nociones topológicas fundamentales
+8. Noción de límite: límite de secuencias y series
+9. Estructuras de control en Python
+10. Continuidad local y global
+11. Concepto de la derivada y reglas de derivación
 
-## Pautas para el Examen
-- Asegúrate de revisar todos los materiales proporcionados a lo largo del curso.
-- Practica con los cuadernos de Colab y las preguntas de práctica.
-- Lee cuidadosamente cada pregunta y administra tu tiempo eficientemente durante el examen.
-- No dudes en preguntar si tienes alguna duda antes del día del examen.
+## Recursos de Preparación
+- [Video de Tutoría: Repaso General](https://youtu.be/vOKk66_vOas)
+- [GitHub con recursos del curso](https://github.com/franperezec/math)
+- [Apuntes de Tutoría](https://miro.com/app/board/uXjVK1fVol0=/?share_link_id=91755632003)
+- Quizizz de práctica:
+  1. [Quizizz 1: TÍTULO_DEL_QUIZIZ_1](https://quizizz.com/join?gc=81730888)
+  2. [Quizizz 2: TÍTULO_DEL_QUIZIZ_2](https://quizizz.com/join?gc=80572384)
+  3. [Quizizz 2: TÍTULO_DEL_QUIZIZ_3]()
 
-## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Libro de referencia: Calculus, Volume I - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+I%3A+One%2DVariable+Calculus%2C+with+an+Introduction+to+Linear+Algebra%2C+2nd+Edition-p-9780471000051)
-- [Libro de referencia: Introduction to Real Analysis - Robert G. Bartle, Donald R. Sherbert](https://www.wiley.com/en-us/Introduction+to+Real+Analysis%2C+4th+Edition-p-9780471433316)
-- [Curso sobre Cálculo - Khan Academy](https://www.khanacademy.org/math/calculus-1)
+## Recomendaciones
+- Revisa todos los materiales de las clases 1-10
+- Practica con los Quizizz proporcionados
+- Visualiza el video de tutoría para un repaso general
+- Prepara un ambiente adecuado para el examen
+- Si tienes dudas, consulta con anticipación
+
+¡Éxito en tu examen!
+
+#ExamenFinal #MatemáticasAvanzadas #ProgramaciónPython #CienciasSociales
