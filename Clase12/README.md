@@ -1,28 +1,34 @@
-# Clase 12: Resolución de problemas de cálculo en Python. Derivadas de orden superior y aproximaciones de Taylor.
+# Clase 12: Python: Funciones y Estructuras + Aplicaciones Matemáticas
 
 ## Descripción
-En esta clase, abordaremos la resolución de problemas de cálculo utilizando Python. También exploraremos las derivadas de orden superior y las aproximaciones de Taylor, conceptos clave en el análisis matemático.
+En esta duodécima clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales, aprenderemos sobre las funciones en Python y exploraremos aplicaciones matemáticas prácticas. Aprenderemos sobre la estructura de funciones en Python y veremos cómo aplicar estos conocimientos a problemas matemáticos concretos.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Jupyter Notebook de la Clase](https://colab.research.google.com/drive/1Xzkf1Jbw9JoiiEkBDb84h-sHgw66SMjd?usp=sharing)
+- [Video de la Clase](https://youtu.be/gicbh9HoVaY)
+- [GitHub con recursos del curso](https://github.com/franperezec/math)
 
 ## Objetivos de Aprendizaje
-- Resolver problemas de cálculo utilizando Python.
-- Comprender y calcular derivadas de orden superior.
-- Aplicar aproximaciones de Taylor a problemas prácticos.
+- Comprender la estructura de funciones en Python.
+- Implementar funciones sin argumentos y con argumentos.
+- Aplicar funciones de Python a problemas matemáticos prácticos.
+- Implementar ejemplos de series convergentes y no convergentes.
+- Crear una calculadora de distancias entre dos puntos usando varias métricas.
 
 ## Actividades
+- Practicar la creación de funciones en Python con y sin argumentos.
+- Implementar algoritmos para calcular series convergentes y no convergentes.
+- Desarrollar una calculadora de distancias utilizando diferentes métricas.
 - Realizar ejercicios en el cuaderno de Colab durante la clase.
 - Descargar el cuaderno para práctica adicional.
 
+## Temas Clave
+- Funciones en Python: estructura, argumentos
+- Series convergentes y no convergentes
+- Métricas y cálculo de distancias
+- Aplicaciones matemáticas en Python
+
 ## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Cálculo en Python - Real Python](https://realpython.com/python-matplotlib-guide/)
-- [Curso de Cálculo en Python - DataCamp](https://www.datacamp.com/courses/calculus-in-python)
-- [Libro de referencia: Calculus, Volume II - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+II%3A+Multi%2DVariable+Calculus+and+Linear+Algebra+with+Applications+to+Differential+Equations+and+Probability%2C+2nd+Edition-p-9780471000075)
-- [Libro de referencia: Advanced Calculus - Patrick M. Fitzpatrick](https://www.crcpress.com/Advanced-Calculus/Fitzpatrick/p/book/9780821847916)
-- [Curso sobre Derivadas de Orden Superior - Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new)
-- [Tutorial de Aproximaciones de Taylor - Paul's Online Math Notes](https://tutorial.math.lamar.edu/classes/calcii/taylormaclaurinseries.aspx)
+- [Canal de YouTube](https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ)
+- Suscríbete y activa las notificaciones para no perderte futuras clases.
+
