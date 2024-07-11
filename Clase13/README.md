@@ -1,29 +1,32 @@
-# Clase 13: Ejercicios aplicados de cálculo en Python. Fundamentos de Integración: cálculo de área, integral definida, integral indefinida. Teorema fundamental del cálculo, reglas de cálculo integral. Aplicaciones: curva de Lorenz y coeficiente de Gini.
+# Clase 13: Repaso Intensivo: Lógica Matemática, Python y Teoría de Conjuntos
 
 ## Descripción
-En esta clase, realizaremos ejercicios aplicados de cálculo utilizando Python. Además, exploraremos los fundamentos de la integración, incluyendo el cálculo de área, integrales definidas e indefinidas, el teorema fundamental del cálculo y las reglas de cálculo integral. También abordaremos aplicaciones prácticas como la curva de Lorenz y el coeficiente de Gini.
+En esta decimotercera clase de nuestro curso de Matemáticas y Programación para Ciencias Sociales, realizaremos un repaso intensivo de los temas fundamentales que hemos cubierto hasta ahora. Nos enfocaremos en lógica matemática, fundamentos de Python y teoría de conjuntos, reforzando estos conceptos a través de preguntas tipo quiz, ejercicios prácticos y problemas de aplicación.
 
 ## Material de Clase
-- [Jupyter Notebook de la Clase](ENLACE_AL_JUPYTER_NOTEBOOK)
-- [Apuntes de Clase](ENLACE_A_LOS_APUNTES)
-- [Preguntas de Práctica y Fichas de Estudio](ENLACE_A_PREGUNTAS_Y_FICHAS)
-- [Video de la Clase](ENLACE_AL_VIDEO)
+- [Jupyter Notebook de la Clase](https://colab.research.google.com/drive/1avnlwlTm7sFN5PbpLe0f2qwxhb-6yQr0?usp=sharing)
+- [Apuntes de Clase](https://miro.com/app/board/uXjVKzilU80=/?share_link_id=100462709933)
+- [Preguntas de Práctica y Fichas de Estudio](https://quizizz.com/join?gc=97873104)
+- [Video de la Clase](https://youtu.be/H93xBkFbKCo)
+- [GitHub con recursos](https://github.com/franperezec/math)
 
 ## Objetivos de Aprendizaje
-- Resolver ejercicios aplicados de cálculo utilizando Python.
-- Comprender los fundamentos de la integración, incluyendo el cálculo de área, integrales definidas e indefinidas.
-- Aplicar el teorema fundamental del cálculo y las reglas de cálculo integral.
-- Entender y aplicar la curva de Lorenz y el coeficiente de Gini.
+- Repasar y consolidar los conceptos de lógica matemática, incluyendo proposiciones, conectivos lógicos y tablas de verdad.
+- Reforzar los fundamentos de Python, incluyendo variables, tipos de datos y estructuras básicas.
+- Revisar la teoría de conjuntos, sus operaciones, propiedades y aplicaciones.
+- Aplicar estos conceptos a problemas prácticos en ciencias sociales.
 
 ## Actividades
-- Realizar ejercicios en el cuaderno de Colab durante la clase.
-- Descargar el cuaderno para práctica adicional.
+- Resolver preguntas tipo quiz para evaluar la comprensión de los temas.
+- Realizar ejercicios prácticos de Python en el cuaderno de Colab.
+- Trabajar en problemas de aplicación de teoría de conjuntos.
+- Participar en discusiones y aclarar dudas sobre los temas revisados.
+
+## Temas Clave
+- Lógica matemática: proposiciones, conectivos lógicos, tablas de verdad
+- Fundamentos de Python: variables, tipos de datos, estructuras básicas
+- Teoría de conjuntos: operaciones, propiedades, aplicaciones
 
 ## Recursos Adicionales
-- [Enlace a la documentación de Python](https://docs.python.org/)
-- [Tutorial de Integración en Python - Real Python](https://realpython.com/python-integration/)
-- [Curso de Integración en Python - DataCamp](https://www.datacamp.com/courses/calculus-in-python)
-- [Libro de referencia: Calculus, Volume II - Tom M. Apostol](https://www.wiley.com/en-us/Calculus%2C+Volume+II%3A+Multi%2DVariable+Calculus+and+Linear+Algebra+with+Applications+to+Differential+Equations+and+Probability%2C+2nd+Edition-p-9780471000075)
-- [Libro de referencia: Advanced Calculus - Patrick M. Fitzpatrick](https://www.crcpress.com/Advanced-Calculus/Fitzpatrick/p/book/9780821847916)
-- [Curso sobre Integración - Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new)
-- [Artículo sobre la Curva de Lorenz y el Coeficiente de Gini - Investopedia](https://www.investopedia.com/terms/l/lorenz-curve.asp)
+- [Canal de YouTube](https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ)
+- Suscríbete y activa las notificaciones para no perderte futuras clases.
